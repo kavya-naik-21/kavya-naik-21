@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<a href="https://linkedin.com/in/kavya-naik">
+  <img align="left" alt="Kavya Naik - LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>
+</a>
+<a href="https://leetcode.com/u/kavya_naik">
+  <img align="left" alt="Kavya Naik - Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg"/>
+</a>
+<br />
+<br />
